@@ -136,3 +136,7 @@ function editStudent(index) {
 
     displayStudents();
 }
+
+const analyse = () => {
+    
+}
