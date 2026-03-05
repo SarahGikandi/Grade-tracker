@@ -1,0 +1,33 @@
+* {
+    background-color: antiquewhite;
+}
+
+#studentForm {
+    border: 2px solid;
+    background: white;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+
+}
+
+form input {
+    padding: 6px;
+    /* width: 230px; */
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background: white;
+}
+
+label {
+    background-color: aliceblue;
+}
+
+.submit-btn {
+    margin-bottom: 30px;
+}
+
